@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, "Tahoma", sans-serif;
+   
+}
+  
+  form {
+    text-align: center;
+    line-height: 3em;
+    /* height: 80%; */
+    overflow: auto;
+  }
+
+  
+  hr{
+      width: 15%;
+      margin: 0 auto;
+  }
+  h1 {
+    text-align: center;
+  }
+  
+ 
+  .toppings label, .cheesy label {
+    margin-right: 25px;
+  }
+
+
